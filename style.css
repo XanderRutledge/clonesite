@@ -16,4 +16,20 @@ background-size: cover;
      display:block;
     max-height: 60vh;
     margin: auto;
-}           
+}        
+
+  .spill-out {
+    position: absolute;
+    top: 95%;
+  }
+
+.googlefont{
+font-family: 'Permanent Marker', cursive;
+    text-shadow: black 1px 1px;
+  
+
+}
+
+.shadow-black{
+    text-shadow: black 1px 1px;
+}
