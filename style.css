@@ -1,0 +1,19 @@
+@media only screen and (max-width: 768px) {
+  .gone {
+    display:none;
+  }
+}
+
+.bg{
+background: url("mountain.jpg") black ;   
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+  
+ img {
+     display:block;
+    max-height: 60vh;
+    margin: auto;
+}           
