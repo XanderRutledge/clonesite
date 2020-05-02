@@ -14,14 +14,17 @@ background-size: cover;
   
  img {
      display:block;
-    max-height: 60vh;
+    max-height: 50vh;
     margin: auto;
 }        
 
+@media only screen and (min-width: 768px) {
   .spill-out {
     position: absolute;
-    top: 95%;
+    top: 68%;
+    left:45%;
   }
+}
 
 .googlefont{
 font-family: 'Permanent Marker', cursive;
