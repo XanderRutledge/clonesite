@@ -21,7 +21,7 @@ background-size: cover;
 @media only screen and (min-width: 768px) {
   .spill-out {
     position: absolute;
-    top: 68%;
+    top: 69%;
     left:45%;
 
   }
@@ -30,10 +30,13 @@ background-size: cover;
 .googlefont{
 font-family: 'Permanent Marker', cursive;
     text-shadow: black 1px 1px;
-  
-
 }
 
 .shadow-black{
     text-shadow: black 1px 1px;
+}
+.font{
+color: black;
+font-family: 'Permanent Marker', cursive;
+
 }
